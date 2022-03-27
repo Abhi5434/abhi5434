@@ -14,7 +14,7 @@
 
 -   🏫 I’m currently studying at @Sri Muthukumaran Institute of Technology.
 -   👨🏻‍🎓 Qualification: B.E - Computer science engineering.
--   💻 I’m looking for backend job offers.
+-   💻 I’m looking for both frontend & backend job offers.
 -   🤹🏻 Most used line of code `git push origin master`
 -   📫 How to reach me: abisheikh03@gmail.com.
 -   ⚡ I play games and make Music Frequently.
@@ -82,6 +82,3 @@ More About Me
 
 <br>
 
-## Stats
-
-![Sam Fenilto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Fenilto&theme=algolia&show_icons=true&count_private=true&hide=contribs,prs) <br> ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Fenilto&theme=algolia&langs_count=8)
