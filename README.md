@@ -8,10 +8,6 @@
 
 </section>
 
-✉️ Reach me out!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Sam_Fenilto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]() [![Mail Badge](https://img.shields.io/badge/-@Sam_Fenilto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sam_fenilto/) [![Mail Badge](https://img.shields.io/badge/-Sam_Fenilto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samfenilto@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Sam_Fenilto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sam_fenilto)
-
 -   🏫 I’m currently studying at @Sri Muthukumaran Institute of Technology.
 -   👨🏻‍🎓 Qualification: B.E - Computer science engineering.
 -   💻 I’m looking for both frontend & backend job offers.
