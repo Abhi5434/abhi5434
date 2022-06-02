@@ -38,7 +38,8 @@
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 -   ### IDE
     ![Pyvharm](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
-
+-   ### Frameworks
+    ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 <br>
 
 ## My Projects
@@ -69,12 +70,6 @@ More About Me
 
 <br>
 
-#### “The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.” — Roy Ayers
-
-```
--   I'm one of the Messenger Who Carry Messages :)
--   Love Making Music aka: bed room producer
-```
 
 <br>
 
